@@ -31,9 +31,6 @@ function mergeSort(arr) {
 }
 
 
-
-
-
 // Takes in two sorted arrays and returns them merged into one
 function merge(arrA, arrB) {
   // Create an empty return array
